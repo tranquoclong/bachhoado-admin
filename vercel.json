@@ -1,7 +1,7 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "vite",
-  "buildCommand": "cd ../.. && pnpm install && cd apps/bachhoado-admin && pnpm run build",
+  "buildCommand": "pnpm run build",
   "outputDirectory": "dist",
   "git": {
     "deploymentEnabled": false
