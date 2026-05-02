@@ -1,0 +1,36 @@
+{
+  "title": "Analytics",
+  "description": "Product and chatbot analytics",
+  "tabs": {
+    "topSelling": "Top Selling",
+    "topViewed": "Top Viewed",
+    "topRated": "Top Rated",
+    "byCategory": "By Category",
+    "chatbot": "Chatbot"
+  },
+  "columns": {
+    "product": "Product",
+    "sold": "Sold",
+    "views": "Views",
+    "rating": "Rating",
+    "revenue": "Revenue",
+    "category": "Category",
+    "products": "Products",
+    "totalSold": "Total Sold",
+    "avgPrice": "Avg Price"
+  },
+  "chatbot": {
+    "totalConversations": "Total Conversations",
+    "totalMessages": "Total Messages",
+    "avgMessagesPerConv": "Avg Messages/Conv",
+    "satisfactionRate": "Satisfaction Rate",
+    "performanceOverTime": "Chatbot Performance Over Time",
+    "conversations": "Conversations",
+    "messages": "Messages"
+  },
+  "charts": {
+    "noData": "No data available",
+    "noDataDescription": "There is no data to display for the selected period"
+  },
+  "error": "Failed to load analytics"
+}

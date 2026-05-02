@@ -1,0 +1,30 @@
+{
+  "title": "Thương hiệu",
+  "description": "Quản lý thương hiệu sản phẩm",
+  "columns": {
+    "name": "Tên",
+    "logo": "Logo",
+    "id": "ID"
+  },
+  "actions": {
+    "addBrand": "Thêm thương hiệu",
+    "createBrand": "Tạo thương hiệu",
+    "editBrand": "Sửa thương hiệu"
+  },
+  "form": {
+    "name": "Tên",
+    "logo": "Logo"
+  },
+  "toast": {
+    "deleteTitle": "Xóa thương hiệu",
+    "deleteDescription": "Bạn có chắc chắn muốn xóa \"{{name}}\"? Các sản phẩm thuộc thương hiệu này có thể bị ảnh hưởng.",
+    "brandCreated": "Đã tạo thương hiệu",
+    "brandUpdated": "Đã cập nhật thương hiệu",
+    "brandDeleted": "Đã xóa thương hiệu",
+    "createFailed": "Không thể tạo thương hiệu",
+    "updateFailed": "Không thể cập nhật thương hiệu",
+    "deleteFailed": "Không thể xóa. Thương hiệu có thể có sản phẩm."
+  },
+  "search": "Tìm kiếm thương hiệu...",
+  "error": "Không thể tải thương hiệu"
+}

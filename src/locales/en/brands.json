@@ -1,0 +1,30 @@
+{
+  "title": "Brands",
+  "description": "Manage brand products",
+  "columns": {
+    "name": "Name",
+    "logo": "Logo",
+    "id": "ID"
+  },
+  "actions": {
+    "addBrand": "Add brand",
+    "createBrand": "Create brand",
+    "editBrand": "Edit brand"
+  },
+  "form": {
+    "name": "Name",
+    "logo": "Logo"
+  },
+  "toast": {
+    "deleteTitle": "Delete brand",
+    "deleteDescription": "Are you sure you want to delete \"{name}\"? Products belonging to this brand may be affected.",
+    "brandCreated": "Brand created",
+    "brandUpdated": "Brand updated",
+    "brandDeleted": "Brand deleted",
+    "createFailed": "Cannot create brand",
+    "updateFailed": "Cannot update brand",
+    "deleteFailed": "Cannot delete. Brand may have products."
+  },
+  "search": "Search brand...",
+  "error": "Cannot load brand"
+}
